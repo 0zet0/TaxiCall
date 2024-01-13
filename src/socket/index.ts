@@ -13,8 +13,7 @@ export const socketStates = reactive({
     barEvents: Array<any>
 };
 
-const URL = "https://api-client.gram.tj/client_gram";
-//const URL = "https://testapi.client.gram.tj/client_gram";
+const URL = 'https://api.server.com/';
 
 export const socket = io(URL, {
     transports: ["websocket"],
