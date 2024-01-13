@@ -1,0 +1,1 @@
+import{_ as t,r as e,o as c,c as a,w as r,a as s}from"./index-8b483585.js";const _={};function l(f,p){const n=e("ion-content"),o=e("ion-page");return c(),a(o,null,{default:r(()=>[s(n,{fullscreen:!0})]),_:1})}const u=t(_,[["render",l]]);export{u as default};

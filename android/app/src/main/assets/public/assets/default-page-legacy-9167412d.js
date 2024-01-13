@@ -1,0 +1,1 @@
+System.register(["./index-legacy-c109d5ca.js"],(function(e,n){"use strict";var t,r,u,c,s,i;return{setters:[e=>{t=e._,r=e.r,u=e.o,c=e.c,s=e.w,i=e.a}],execute:function(){e("default",t({},[["render",function(e,n){const t=r("ion-content"),o=r("ion-page");return u(),c(o,null,{default:s((()=>[i(t,{fullscreen:!0})])),_:1})}]]))}}}));
